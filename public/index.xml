@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>About Me on </title>
-		<link>https://ryota-nakanishi-dev.github.io/</link>
+		<link>http://localhost:1313/</link>
 		<description>Recent content in About Me on </description>
 		<generator>Hugo</generator>
 		<language>ja</language>
@@ -12,55 +12,55 @@
 		
 			<lastBuildDate>Tue, 25 Aug 2026 00:00:00 +0000</lastBuildDate>
 		
-			<atom:link href="https://ryota-nakanishi-dev.github.io/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>About Me</title>
-				<link>https://ryota-nakanishi-dev.github.io/about/</link>
+				<link>http://localhost:1313/about/</link>
 				<pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
-				<guid>https://ryota-nakanishi-dev.github.io/about/</guid>
+				<guid>http://localhost:1313/about/</guid>
 				<description>&lt;h2 id=&#34;プロフィールprofile&#34;&gt;プロフィール（Profile）&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;中西 凌大（Ryota Nakanishi）&lt;/strong&gt;&#xA;芝浦工業大学大学院 理工学研究科 システム理工学専攻 修士課程2年&lt;br&gt;&#xA;川上研究室（フルードパワーシステム研究室）所属&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;研究関心research-interests&#34;&gt;研究関心（Research Interests）&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;フルードパワーシステム（Fluid Power Systems）&lt;/strong&gt;：空気圧シリンダの自動化及び制御&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;ソフトロボティクス / グリッパ機構&lt;/strong&gt;：空気圧人工筋を用いたロボットハンドの開発&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;略歴education--experience&#34;&gt;略歴（Education &amp;amp; Experience）&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;2025年4月 - 現在&lt;/strong&gt;：芝浦工業大学大学院 理工学研究科 システム理工学専攻 修士課程&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;2021年4月 - 2025年3月&lt;/strong&gt;：芝浦工業大学 システム理工学部&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;連絡先リンクcontact--links&#34;&gt;連絡先・リンク（Contact &amp;amp; Links）&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Email&lt;/strong&gt;: &lt;code&gt;bq21043@shibaura-it.ac.jp&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;GitHub&lt;/strong&gt;: &lt;a href=&#34;https://github.com/ryota-nakanishi-dev&#34;&gt;github.com/ryota-nakanishi-dev&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 			<item>
 				<title>Publications（業績一覧）</title>
-				<link>https://ryota-nakanishi-dev.github.io/publications/</link>
+				<link>http://localhost:1313/publications/</link>
 				<pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
-				<guid>https://ryota-nakanishi-dev.github.io/publications/</guid>
+				<guid>http://localhost:1313/publications/</guid>
 				<description>&lt;h2 id=&#34;学術論文査読あり&#34;&gt;学術論文（査読あり）&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Coming Soon&amp;hellip;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;国内学会発表&#34;&gt;国内学会発表&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;中西凌大&lt;/strong&gt;，川上幸男，空気圧ハイブリッドグリッパの検討，2026年春季フルードパワーシステム講演会講演論文集，pp.89-91，2026．&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;中谷槙之介，&lt;strong&gt;中西凌大&lt;/strong&gt;，村山栄治，川上幸男，PWM駆動を適用した空気圧シリンダメータアウト回路に関する検討，2026年春季フルードパワーシステム講演会講演論文集，pp.86-88，2026．&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;中西凌大&lt;/strong&gt;，川上幸男，空気圧ハイブリッドグリッパの開発，2025年度計測自動制御学会産業応用部門大会流体制御シンポジウム．&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;国際会議&#34;&gt;国際会議&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Coming Soon&amp;hellip;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;hr&gt;</description>
 			</item>
 			<item>
 				<title>Research Topics （研究内容）</title>
-				<link>https://ryota-nakanishi-dev.github.io/research/</link>
+				<link>http://localhost:1313/research/</link>
 				<pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
-				<guid>https://ryota-nakanishi-dev.github.io/research/</guid>
+				<guid>http://localhost:1313/research/</guid>
 				<description>&lt;h2&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Coming Soon&amp;hellip;&lt;/p&gt;</description>
 			</item>
 			<item>
 				<title>最近のお知らせ</title>
-				<link>https://ryota-nakanishi-dev.github.io/posts/news1/</link>
+				<link>http://localhost:1313/posts/news1/</link>
 				<pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>https://ryota-nakanishi-dev.github.io/posts/news1/</guid>
+				<guid>http://localhost:1313/posts/news1/</guid>
 				<description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;2026.06.19&lt;/strong&gt;&lt;br&gt;&#xA;日本フルードパワーシステム学会2026年度春季講演会にて2件の発表を行いました。&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;2025.11.25&lt;/strong&gt;&lt;br&gt;&#xA;計測自動制御学会（SICE）産業応用部門大会流体計測シンポジウムにて1件の発表を行いました。&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 			<item>
 				<title>日本フルードパワーシステム学会2026年度春季講演会にて2件の発表を行いました</title>
-				<link>https://ryota-nakanishi-dev.github.io/posts/jfps2026haru/</link>
+				<link>http://localhost:1313/posts/jfps2026haru/</link>
 				<pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
-				<guid>https://ryota-nakanishi-dev.github.io/posts/jfps2026haru/</guid>
+				<guid>http://localhost:1313/posts/jfps2026haru/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>SICE産業応用部門大会流体計測シンポジウムにて1件の発表を行いました</title>
-				<link>https://ryota-nakanishi-dev.github.io/posts/sice-2025/</link>
+				<link>http://localhost:1313/posts/sice-2025/</link>
 				<pubDate>Tue, 25 Nov 2025 00:00:00 +0000</pubDate>
-				<guid>https://ryota-nakanishi-dev.github.io/posts/sice-2025/</guid>
+				<guid>http://localhost:1313/posts/sice-2025/</guid>
 				<description></description>
 			</item>
 			<item>
 				<title>News</title>
-				<link>https://ryota-nakanishi-dev.github.io/news/</link>
+				<link>http://localhost:1313/news/</link>
 				<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-				<guid>https://ryota-nakanishi-dev.github.io/news/</guid>
-				<description>&lt;h3 id=&#34;更新情報お知らせ一覧&#34;&gt;更新情報・お知らせ一覧&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;2026.06.19&lt;/strong&gt;&lt;br&gt;&#xA;&lt;a href=&#34;./posts/jfps2026haru/&#34;&gt;日本フルードパワーシステム学会2026年度春季講演会にて2件の発表を行いました&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;2025.11.25&lt;/strong&gt;&lt;br&gt;&#xA;&lt;a href=&#34;./posts/sice-2025/&#34;&gt;計測自動制御学会（SICE）産業応用部門大会流体計測シンポジウムにて1件の発表を行いました&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+				<guid>http://localhost:1313/news/</guid>
+				<description>&lt;h3 id=&#34;更新情報お知らせ一覧&#34;&gt;更新情報・お知らせ一覧&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;2026.11.19&lt;/strong&gt;&#xA;[計測自動制御学会（SICE）産業応用部門大会2026年度流体計測シンポジウムにて2件の発表を行いました]&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;2026.06.19&lt;/strong&gt;&lt;br&gt;&#xA;&lt;a href=&#34;./posts/jfps2026haru/&#34;&gt;日本フルードパワーシステム学会2026年度春季講演会にて2件の発表を行いました&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;2025.11.25&lt;/strong&gt;&lt;br&gt;&#xA;&lt;a href=&#34;./posts/sice-2025/&#34;&gt;計測自動制御学会（SICE）産業応用部門大会流体計測シンポジウムにて1件の発表を行いました&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
 			</item>
 	</channel>
 </rss>
