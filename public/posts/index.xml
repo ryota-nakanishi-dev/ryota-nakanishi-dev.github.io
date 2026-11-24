@@ -10,15 +10,22 @@
 		
 		
 		
-			<lastBuildDate>Fri, 19 Jun 2026 00:00:00 +0000</lastBuildDate>
+			<lastBuildDate>Fri, 19 November 2026 00:00:00 +0000</lastBuildDate>
 		
 			<atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>最近のお知らせ</title>
 				<link>http://localhost:1313/posts/news1/</link>
-				<pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
+				<pubDate>Fri, 19 November 2026 00:00:00 +0000</pubDate>
 				<guid>http://localhost:1313/posts/news1/</guid>
 				<description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;2026.06.19&lt;/strong&gt;&lt;br&gt;&#xA;日本フルードパワーシステム学会2026年度春季講演会にて2件の発表を行いました。&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;2025.11.25&lt;/strong&gt;&lt;br&gt;&#xA;計測自動制御学会（SICE）産業応用部門大会流体計測シンポジウムにて1件の発表を行いました。&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+			</item>
+			<item>
+				<title>計測自動制御学会2026年度産業応用部門大会流体計測シンポジウムにて2件の発表を行いました</title>
+				<link>http://localhost:1313/posts/jfps2026haru/</link>
+				<pubDate>Fri, 19 November 2026 00:00:00 +0000</pubDate>
+				<guid>http://localhost:1313/posts/jfps2026haru/</guid>
+				<description></description>
 			</item>
 			<item>
 				<title>日本フルードパワーシステム学会2026年度春季講演会にて2件の発表を行いました</title>
