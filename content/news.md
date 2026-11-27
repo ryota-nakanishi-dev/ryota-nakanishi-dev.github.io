@@ -4,7 +4,7 @@ title: "News"
 
 ### 更新情報・お知らせ一覧
 * **2026.11.27**
- [日本フルードパワーシステム学会2026年度春季講演会にて1件の発表を行いました](C:\Users\nakan\tex\my-lab-site\content\posts\JFPS2026aki)
+ [日本フルードパワーシステム学会2026年度春季講演会にて1件の発表を行いました](C:\Users\nakan\tex\my-lab-site\content\posts\JFPS2026aki.md)
 
 * **2026.11.19**
   [計測自動制御学会（SICE）産業応用部門大会2026年度流体計測シンポジウムにて2件の発表を行いました](C:\Users\nakan\tex\my-lab-site\content\posts\sice-2026.md)
